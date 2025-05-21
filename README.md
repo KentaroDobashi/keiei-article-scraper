@@ -35,7 +35,7 @@ exclude_urls = [
     "https://keiei-manabu.com/toolkyouzai",
     ...
 ]
-
+```
 ## 💡 応用アイデア（今後の展開）
 
 - ChatGPT APIを使った自動要約・タグ分類
